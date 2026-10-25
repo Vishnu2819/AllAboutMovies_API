@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: allaboutmovies-api
+  data:
+    mongodb:
+      uri: ${MONGODB_URI:mongodb://localhost:27017/allaboutmovies}
+      auto-index-creation: true
+
+server:
+  port: ${PORT:8080}
+
+app:
+  cors:
+    # Comma-separated list; the GitHub Pages UI and local CRA dev server by default.
+    allowed-origins: ${CORS_ALLOWED_ORIGINS:http://localhost:3000,https://vishnu2819.github.io}
+  seed:
+    enabled: ${SEED_ENABLED:true}
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info

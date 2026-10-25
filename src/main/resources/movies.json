@@ -1,0 +1,265 @@
+[
+  {
+    "imdbId": "tt15239678",
+    "title": "Dune: Part Two",
+    "releaseDate": "2024-03-01",
+    "runtimeMinutes": 167,
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+    "poster": "https://image.tmdb.org/t/p/w500/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/eZ239CUp1d6OryZEBPnO2n87gMG.jpg"
+    ],
+    "trailerLink": "https://www.youtube.com/watch?v=Way9Dexny3w",
+    "tmdbId": 693134,
+    "userScore": 81
+  },
+  {
+    "imdbId": "tt15398776",
+    "title": "Oppenheimer",
+    "releaseDate": "2023-07-21",
+    "runtimeMinutes": 181,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+    "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg"
+    ],
+    "trailerLink": "https://www.youtube.com/watch?v=bK6ldnjE3Y0",
+    "tmdbId": 872585,
+    "userScore": 80
+  },
+  {
+    "imdbId": "tt9362722",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "releaseDate": "2023-06-02",
+    "runtimeMinutes": 140,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+    "poster": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg"
+    ],
+    "trailerLink": "https://www.youtube.com/watch?v=BbXJ3_AQE_o",
+    "tmdbId": 569094,
+    "userScore": 83
+  },
+  {
+    "imdbId": "tt1375666",
+    "title": "Inception",
+    "releaseDate": "2010-07-16",
+    "runtimeMinutes": 148,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Crime"
+    ],
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "poster": "https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg"
+    ],
+    "trailerLink": "https://www.youtube.com/watch?v=Jvurpf91omw",
+    "tmdbId": 27205,
+    "userScore": 84
+  },
+  {
+    "imdbId": "tt0816692",
+    "title": "Interstellar",
+    "releaseDate": "2014-11-04",
+    "runtimeMinutes": 169,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "poster": "https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/8sNiAPPYU14PUepFNeSNGUTiHW.jpg"
+    ],
+    "trailerLink": "https://www.youtube.com/watch?v=827FNDpQWrQ",
+    "tmdbId": 157336,
+    "userScore": 85
+  },
+  {
+    "imdbId": "tt0468569",
+    "title": "The Dark Knight",
+    "releaseDate": "2008-07-18",
+    "runtimeMinutes": 152,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg"
+    ],
+    "trailerLink": "https://www.youtube.com/watch?v=kmJLuwP3MbY",
+    "tmdbId": 155,
+    "userScore": 85
+  },
+  {
+    "imdbId": "tt6710474",
+    "title": "Everything Everywhere All at Once",
+    "releaseDate": "2022-03-25",
+    "runtimeMinutes": 140,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+    "poster": "https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg"
+    ],
+    "trailerLink": "https://www.youtube.com/watch?v=wxN1T1uxQ2g",
+    "tmdbId": 545611,
+    "userScore": 77
+  },
+  {
+    "imdbId": "tt6751668",
+    "title": "Parasite",
+    "releaseDate": "2019-10-11",
+    "runtimeMinutes": 133,
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "poster": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg"
+    ],
+    "trailerLink": "https://www.youtube.com/watch?v=hb1iOVvkykY",
+    "tmdbId": 496243,
+    "userScore": 85
+  },
+  {
+    "imdbId": "tt1856101",
+    "title": "Blade Runner 2049",
+    "releaseDate": "2017-10-06",
+    "runtimeMinutes": 164,
+    "genres": [
+      "Science Fiction",
+      "Drama"
+    ],
+    "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+    "poster": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/gNdLJU9TxrpGx4dkZidjys3fyy0.jpg"
+    ],
+    "trailerLink": "https://www.youtube.com/watch?v=gCcx85zbxz4",
+    "tmdbId": 335984,
+    "userScore": 76
+  },
+  {
+    "imdbId": "tt1745960",
+    "title": "Top Gun: Maverick",
+    "releaseDate": "2022-05-27",
+    "runtimeMinutes": 131,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "overview": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+    "poster": "https://image.tmdb.org/t/p/w500/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg"
+    ],
+    "trailerLink": "https://www.youtube.com/watch?v=qSqVVswa420",
+    "tmdbId": 361743,
+    "userScore": 82
+  },
+  {
+    "imdbId": "tt1392190",
+    "title": "Mad Max: Fury Road",
+    "releaseDate": "2015-05-15",
+    "runtimeMinutes": 121,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+    "poster": "https://image.tmdb.org/t/p/w500/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg"
+    ],
+    "trailerLink": "https://www.youtube.com/watch?v=akX3Is3qBpw",
+    "tmdbId": 76341,
+    "userScore": 76
+  },
+  {
+    "imdbId": "tt0133093",
+    "title": "The Matrix",
+    "releaseDate": "1999-03-31",
+    "runtimeMinutes": 136,
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "poster": "https://image.tmdb.org/t/p/w500/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg"
+    ],
+    "trailerLink": "https://www.youtube.com/watch?v=L0fw0WzFaBM",
+    "tmdbId": 603,
+    "userScore": 83
+  },
+  {
+    "imdbId": "tt0245429",
+    "title": "Spirited Away",
+    "releaseDate": "2002-09-20",
+    "runtimeMinutes": 125,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "poster": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/m4TUa2ciEWSlk37rOsjiSIvZDXE.jpg"
+    ],
+    "trailerLink": "https://www.youtube.com/watch?v=ByXuk9QqQkk",
+    "tmdbId": 129,
+    "userScore": 85
+  },
+  {
+    "imdbId": "tt2582802",
+    "title": "Whiplash",
+    "releaseDate": "2014-10-10",
+    "runtimeMinutes": 107,
+    "genres": [
+      "Drama",
+      "Music",
+      "Thriller"
+    ],
+    "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+    "poster": "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/fRGxZuo7jJUWQsVg9PREb98Aclp.jpg"
+    ],
+    "trailerLink": "https://www.youtube.com/watch?v=Df1xkYYbYrY",
+    "tmdbId": 244786,
+    "userScore": 84
+  }
+]
